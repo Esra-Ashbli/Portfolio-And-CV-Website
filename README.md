@@ -1,6 +1,6 @@
 ## About the project
 
-![screenshot]
+![Screenshot.png]
 
 Building Protfolio & CV website using Laravel - The PHP Framework For Web Artisans.
 ### Built With
