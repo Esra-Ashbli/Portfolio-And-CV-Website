@@ -1,9 +1,10 @@
-## About the project
+# About the project
+### Building Protfolio & CV website using Laravel - The PHP Framework For Web Artisans.
 
 ![Screenshot.png](https://github.com/Esra-Ashbli/Portfolio-And-CV-Website/blob/main/Screenshot.png)
-
-Building Protfolio & CV website using Laravel - The PHP Framework For Web Artisans.
-### Built With
+### Responsive website design
+![img2](https://github.com/Esra-Ashbli/Portfolio-And-CV-Website/blob/main/Screenshot%202024-07-16%20160137.png)
+# Built With
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
