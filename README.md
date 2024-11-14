@@ -1,5 +1,5 @@
 # About the project
-Building Protfolio & CV Responsive Website Design using Laravel - The PHP Framework For Web Artisans.
+Building Protfolio & CV **Responsive** Website Design using Laravel - The PHP Framework For Web Artisans.
 
 <br>
 <img src="images/cv.png" alt="home&about-page" width="300" height="400">
